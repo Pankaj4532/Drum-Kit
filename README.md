@@ -46,7 +46,7 @@ This is a fun and interactive Drum Kit project created using HTML, CSS, and Java
 
 ## 🔗 Live Demo
 
-👉 [Play it here.](https://pankaj4532.g](https://pankaj4532.github.io/Drum-Kit/)
+👉 [Play it here.](https://pankaj4532.github.io/Drum-Kit/)
 
 ## 👨‍💻 Author
 **Pankaj Sapkal**  
